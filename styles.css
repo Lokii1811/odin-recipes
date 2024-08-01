@@ -1,0 +1,18 @@
+* {
+    background-color: rgba(218, 14, 167, 0.1);
+}
+
+h1 {
+    color: rgb(255, 235, 238); 
+    background-color: rgb(0, 0, 0, 0.9);
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+button {
+    font-size: large;
+    background-color: yellow;
+}
